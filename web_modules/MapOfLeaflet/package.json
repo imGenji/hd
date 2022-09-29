@@ -1,0 +1,17 @@
+{
+  "name": "map-engine",
+  "version": "1.0.0",
+  "author": "chencheng <daniel_txy@163.com>",
+  "description": "地图引擎",
+  "main": "./index",
+  "dependencies": {
+    "geotiff": "^1.0.0-beta.6",
+    "leaflet": "^1.5.1"
+  },
+  "peerDependencies": {
+    "react": ">16.8.6"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.5.1"
+  }
+}
